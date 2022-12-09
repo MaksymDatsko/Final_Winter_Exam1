@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(40,106): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(90,106): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(135,81): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(151,81): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(166,55): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\maksd\Desktop\Dz\Final_Winter_exam\Final_Winter_exam\Source.cpp(182,46): warning C4390: ';': empty controlled statement found; is this the intent?
+  Final_Winter_exam.vcxproj -> C:\Users\maksd\Desktop\Dz\Final_Winter_exam\x64\Debug\Final_Winter_exam.exe
